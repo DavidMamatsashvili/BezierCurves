@@ -4,7 +4,7 @@ An interactive visualization of Bézier curves using De Casteljau's algorithm.
 
 ## Demo
 
-![Demo](Assets/demo.gif)
+![Demo](BezierCurves/Assets/demo.gif)
 
 ## Features
 
